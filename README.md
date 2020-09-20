@@ -79,3 +79,10 @@ Cryptanalib's analysis engine can detect a number of properties in the analysis 
 * Insufficiently large RSA moduli
 * RSA modulus reuse
 * Transposition-only cipher
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
